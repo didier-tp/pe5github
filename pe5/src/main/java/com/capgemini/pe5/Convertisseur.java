@@ -1,4 +1,4 @@
-package pe5;
+package com.capgemini.pe5;
 
 public class Convertisseur {
 	public double euroToFranc(double montantEnEuro) {

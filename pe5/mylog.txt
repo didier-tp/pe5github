@@ -1,0 +1,2 @@
+2018-05-16 12:47:51,731 INFO main com.capgemini.pe5.AppAbdou - bonjour
+2018-05-16 12:47:51,731 DEBUG main com.capgemini.pe5.AppAbdou - le monde

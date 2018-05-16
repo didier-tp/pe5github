@@ -1,8 +1,10 @@
-package pe5;
+package com.capgemini.pe5.test;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.capgemini.pe5.Convertisseur;
 
 
 
