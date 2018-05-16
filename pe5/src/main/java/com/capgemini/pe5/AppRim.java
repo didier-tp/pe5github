@@ -11,6 +11,8 @@ public class AppRim {
 		System.out.println("le monde");*/
 		logger.info("bonjour");
 		logger.debug("le monde");
+		System.out.println("app commun titi ***");
+		System.out.println("coorection de bug en urgence ");
 
 	}
 
